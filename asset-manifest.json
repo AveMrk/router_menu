@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/router_menu/static/css/main.f1bf6abc.css",
+    "main.js": "/router_menu/static/js/main.12cfa2ac.js",
+    "index.html": "/router_menu/index.html",
+    "main.f1bf6abc.css.map": "/router_menu/static/css/main.f1bf6abc.css.map",
+    "main.12cfa2ac.js.map": "/router_menu/static/js/main.12cfa2ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1bf6abc.css",
+    "static/js/main.12cfa2ac.js"
+  ]
+}
