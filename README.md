@@ -9,4 +9,4 @@
     
 *как это раотает:*
     
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZjc3RwbXJwNTlwanZ3NmZlc2N6ZzBrZHljcWR2c3hlM3Ntc3JpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OaJRGumeFNQYNvH54N/giphy.gif" alt="demo gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZjc3RwbXJwNTlwanZ3NmZlc2N6ZzBrZHljcWR2c3hlM3Ntc3JpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OaJRGumeFNQYNvH54N/giphy.gif" alt="demo gif"/>
